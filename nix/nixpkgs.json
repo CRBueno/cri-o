@@ -1,12 +1,14 @@
 {
   "url": "https://github.com/nixos/nixpkgs",
-  "rev": "953cb16a5e703be81cf2ce4fee32465c83c80b11",
-  "date": "2024-02-27T09:43:41-03:00",
-  "path": "/nix/store/sdwwm4vljzmv99livrir8nn5ivycl1ly-nixpkgs",
-  "sha256": "1jygmskxrg2jb01mp5g79q431pvp3iw30qxrdixj4nj7rh6424in",
-  "hash": "sha256-NhJBDMxHWiJ7bLljMHgcd98wCE7nlVsDWFK83Keuz8s=",
+  "rev": "4153738b5aadea7d360ce9f0340cd01295cfea20",
+  "date": "2026-11-08T04:36:19Z",
+  "path": "/nix/store/cz2qjfzni4f2nbfs9m7xsir97rrmw9kv-nixpkgs",
+  "sha256": "0g2hqbqlwbr2zv5ssx1y1445r1y6lb8i3ww78fj8s3j6fnkf07af",
+  "hash": "sha256-Th3gpnVGDo2kQ4fzEdGixodcCAk+dK3L/iIvTvHCUDw=",
   "fetchLFS": false,
   "fetchSubmodules": false,
   "deepClone": false,
-  "leaveDotGit": false
+  "fetchTags": false,
+  "leaveDotGit": false,
+  "rootDir": ""
 }
